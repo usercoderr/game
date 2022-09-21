@@ -1,0 +1,9 @@
+.game-genre{
+    background-color: coral;
+    padding: 5px;
+    font-size: 14px;
+    border-radius: 12px;
+}
+.game-genre:not(:last-child){
+    margin-right: 8px;
+}
