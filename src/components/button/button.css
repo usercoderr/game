@@ -1,0 +1,10 @@
+.btn{
+    border-radius: 15px;
+    color: wheat;
+    border: none;
+    padding: 5px;
+    cursor: pointer;
+}
+.btn--primary{
+    background-color: rgb(red, green, blue);
+}
