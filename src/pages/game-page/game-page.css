@@ -1,0 +1,25 @@
+.game-page{
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+.game-page_content{
+    display: flex;
+    
+}
+.game-page__left{
+    width: 70%;
+
+}
+.game-page__right{
+    margin-top: 50px;
+    width:30%;
+    height: 400px;
+}
+.game-page_buy-game{
+    display: flex;
+    justify-content: flex-end;
+}
